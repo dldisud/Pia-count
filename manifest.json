@@ -1,0 +1,9 @@
+{
+  "id": "pia-count",
+  "name": "Pia-count",
+  "version": "1.0.0",
+  "minAppVersion": "0.9.12",
+  "description": "Count words and characters in your notes",
+  "author": "dldisud",
+  "isDesktopOnly": false
+}
